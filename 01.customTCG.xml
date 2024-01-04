@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+  	<set>
+  		<name>CTCG</name>
+  		<longname>Dungeons and Dragons Custom TCG</longname>
+  		<settype>Playtest</settype>
+  	<releasedate>2024-01-03</releasedate>
+</set>
+  </sets>
+  <cards>
+
+
+  	<card>
+  		<name>Strength ASI</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>0</tablerow>
+	</card>
+
+  	<card>
+  		<name>Charisma ASI</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>0</tablerow>
+	</card>
+
+  	<card>
+  		<name>Intelligence ASI</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>0</tablerow>
+	</card>
+
+  	<card>
+  		<name>Dexterity ASI</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>0</tablerow>
+	</card>
+
+  	<card>
+  		<name>Wisdom ASI</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>0</tablerow>
+	</card>
+
+  	<card>
+  		<name>Altair</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+
+  	<card>
+  		<name>Bink</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+
+  	<card>
+  		<name>Bug</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+
+  	<card>
+  		<name>Caeda</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+
+  	<card>
+  		<name>Cynde</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+
+  	<card>
+  		<name>Davion</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+
+  	<card>
+  		<name>Duzz</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Enya</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Fallon</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Florence</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Freak</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Hanweir</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Igdris</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>John</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Killian</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>King</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Markus</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Prophet</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Rean</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Rheva</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Ril</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Rohana</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Sir Henry</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Stella</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Sylben</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Valenkai</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Vanhorn</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Vaughn</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Xavier</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>2</tablerow>
+	</card>
+  	<card>
+  		<name>Adamantine Armor</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Lever-Action Hand Crossbow</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Lightdrinker</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Minor Illusion Bracer</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Ring of Guidance</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Transmutation Orb</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Auto Injector</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Pump-Action Light Crossbow</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>+1 Armor</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Amulet of Magic Resistance</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Cursed Book</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Drum-Fed Heavy Crossbow</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Engash's Sword</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Ioun Stone of Agility</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Ioun Stone of Intellect</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Ioun Stone of Leadership</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Ioun Stone of Strength</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Ioun Stone of Wisdom</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Necklace of Shielding</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Platinum Ring</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Stone of Good Luck</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Wooden Mage Figurine</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>+2 Armor</name>
+ 		 <text></text>
+ 		 <set rarity="very rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Endbringer, Promise of the Stars</name>
+ 		 <text></text>
+ 		 <set rarity="very rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Engash's Awakening</name>
+ 		 <text></text>
+ 		 <set rarity="very rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Mardun's Amulet</name>
+ 		 <text></text>
+ 		 <set rarity="very rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>+3 Armor</name>
+ 		 <text></text>
+ 		 <set rarity="legendary">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Engash's Ascension</name>
+ 		 <text></text>
+ 		 <set rarity="legendary">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Kyrenic's Blade</name>
+ 		 <text></text>
+ 		 <set rarity="legendary">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>+1 Weapon</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Amulet of the 9</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Mantis Construct</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Potion of Healing CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Tiny Sword</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>+2 Weapon</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Bag of Holding CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Clockwork Amulet</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Dynamite</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Javelin of Lightning CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Potion of Greater Healing</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Stone of Ill Luck</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Gloves of Thievery</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Macian Gem</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Mind-Spike Spear</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Potion of Superior Healing</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Returning Weapon</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Silver Mirror</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Unstable Fire Gem</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>+3 Weapon</name>
+ 		 <text></text>
+ 		 <set rarity="very rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Ant Constructs</name>
+ 		 <text></text>
+ 		 <set rarity="very rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Potion of Supreme Healing</name>
+ 		 <text></text>
+ 		 <set rarity="very rare">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Deck of Many Things</name>
+ 		 <text></text>
+ 		 <set rarity="legendary">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Time Stop Amulet</name>
+ 		 <text></text>
+ 		 <set rarity="legendary">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Ailre</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Bean</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Branwenn</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Dahlia</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Engash</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Gervais</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Mardun</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Mock</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Ollie</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Sovelis</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Anhaeryn's Tower</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Firebreather Ambush</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Into the Prism</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Long Rest CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Pirate Bargain</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Retriever Attack</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Videa's Test</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>1</tablerow>
+	</card>
+  	<card>
+  		<name>Absorb Elements</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Armor of Agathys</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Burning Hands CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Compelled Duel CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Cure Wounds</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Healing Word</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Heat Metal</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Hellish Rebuke CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Hex CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Inflict Wounds</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Magic Missile CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Mirror Image CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Misty Step</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Scorching Ray</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Shield</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Wither And Bloom</name>
+ 		 <text></text>
+ 		 <set rarity="common">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Blinding Smite</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Blink CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Catnap</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Confusion</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Counterspell CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Death Ward CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Dispel Magic</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Fabricate CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Fire Shield</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Fireball CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Haste</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Life Transference</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Lightning Bolt CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Mass Healing Word</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Minute Meteors</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Thunder Step</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Tiny Hut</name>
+ 		 <text></text>
+ 		 <set rarity="uncommon">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Creation</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Disintegrate CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Far Step</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Harm</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Heal CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Mass Cure Wounds</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Teleportation Circle CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="rare">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Antimagic Field</name>
+ 		 <text></text>
+ 		 <set rarity="very rare">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Feeblemind</name>
+ 		 <text></text>
+ 		 <set rarity="very rare">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Maze</name>
+ 		 <text></text>
+ 		 <set rarity="very rare">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Teleport CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="very rare">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Tether Essence</name>
+ 		 <text></text>
+ 		 <set rarity="very rare">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Mass Heal</name>
+ 		 <text></text>
+ 		 <set rarity="legendary">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Meteor Swarm CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="legendary">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Power Word Heal</name>
+ 		 <text></text>
+ 		 <set rarity="legendary">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Power Word Kill CTCG</name>
+ 		 <text></text>
+ 		 <set rarity="legendary">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>Storm of Vengeance</name>
+ 		 <text></text>
+ 		 <set rarity="legendary">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+	<card>
+  		<name>True Ressurection</name>
+ 		 <text></text>
+ 		 <set rarity="legendary">CTCG</set>
+ 		 <tablerow>3</tablerow>
+	</card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,22 @@
+!!!=================================!!!
+
+To install correctly, do the following:
+
+!!!=================================!!!
+
+
+1) Open cockatrice and go to Card Database -> Open Custom Image Folder.
+
+2) Move or Copy the CTCG Files folder into the file that pops up.
+
+
+3) Open cockatrice and go to Card Database -> Open Custom Sets Folder
+
+4) Move or Copy 01.customTCG.xml into the file that pops up.
+
+
+5) Go to Settings -> Appearance -> Open Themes Folder.
+
+6) Move or Copy the CTCG Theme file folder into the file that pops up.
+
+7) In Settings -> Appearance, change the current theme to CTCG
